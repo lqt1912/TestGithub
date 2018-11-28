@@ -31,6 +31,7 @@
             this.hScrollBar1 = new System.Windows.Forms.HScrollBar();
             this.listView1 = new System.Windows.Forms.ListView();
             this.label1 = new System.Windows.Forms.Label();
+            this.listView2 = new System.Windows.Forms.ListView();
             this.SuspendLayout();
             // 
             // hScrollBar1
@@ -57,11 +58,20 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "label1";
             // 
+            // listView2
+            // 
+            this.listView2.Location = new System.Drawing.Point(340, 177);
+            this.listView2.Name = "listView2";
+            this.listView2.Size = new System.Drawing.Size(121, 97);
+            this.listView2.TabIndex = 3;
+            this.listView2.UseCompatibleStateImageBehavior = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.listView2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.hScrollBar1);
@@ -77,6 +87,7 @@
         private System.Windows.Forms.HScrollBar hScrollBar1;
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ListView listView2;
     }
 }
 
