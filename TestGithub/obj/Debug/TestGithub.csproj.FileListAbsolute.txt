@@ -8,3 +8,13 @@ C:\Users\Le Quoc Thang\source\repos\TestGithub\TestGithub\obj\Debug\TestGithub.c
 C:\Users\Le Quoc Thang\source\repos\TestGithub\TestGithub\obj\Debug\TestGithub.csproj.CoreCompileInputs.cache
 C:\Users\Le Quoc Thang\source\repos\TestGithub\TestGithub\obj\Debug\TestGithub.exe
 C:\Users\Le Quoc Thang\source\repos\TestGithub\TestGithub\obj\Debug\TestGithub.pdb
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\bin\Debug\TestGithub.exe.config
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\bin\Debug\TestGithub.exe
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\bin\Debug\TestGithub.pdb
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\obj\Debug\TestGithub.csprojAssemblyReference.cache
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\obj\Debug\TestGithub.Form1.resources
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\obj\Debug\TestGithub.Properties.Resources.resources
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\obj\Debug\TestGithub.csproj.GenerateResource.cache
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\obj\Debug\TestGithub.csproj.CoreCompileInputs.cache
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\obj\Debug\TestGithub.exe
+C:\Users\Le Quoc Thang\Documents\GitHub\TestGithub\TestGithub\obj\Debug\TestGithub.pdb
